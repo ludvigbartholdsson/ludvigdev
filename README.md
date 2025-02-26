@@ -1,2 +1,8 @@
 # ludvigdev
-Ludvigdevelopment.com/.se &amp; ludvigbartholdsson.com/.se
+
+## Deployed on
+
+- ludvigbartholdsson.com
+- ludvigbartholdsson.se
+- ludvigdevelopment.com
+- ludvigdevelopment.se
