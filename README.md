@@ -6,3 +6,12 @@
 - ludvigbartholdsson.se
 - ludvigdevelopment.com
 - ludvigdevelopment.se
+
+## Style
+
+- ShadCN
+- https://vercel.com/geist/colors
+
+## TODO
+
+- Blog & subscribe method (w supabase?)
