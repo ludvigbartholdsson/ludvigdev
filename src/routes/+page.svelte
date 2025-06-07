@@ -78,6 +78,13 @@
 					class="link"
 					target="_blank"
 					rel="noopener noreferrer"
+					href="https://www.di.se/debatt/sa-ateruppvacks-det-nordiska-techundret/"
+					>“How the Nordic tech miracle is being revived.” (2025, Swedish)</a
+				>
+				<a
+					class="link"
+					target="_blank"
+					rel="noopener noreferrer"
 					href="https://www.di.se/digital/blev-blast-nu-rensar-han-marknaden-med-miljardaren/"
 					>“Got swindled - now he's cleaning up the market with the billionaire.” (2024, Swedish)</a
 				>
